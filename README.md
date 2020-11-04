@@ -3,4 +3,4 @@
 
 Install requirements using:
 
- <tt>pip install -r requirements.txt </tt>
+<tt>pip install -r requirements.txt </tt>
